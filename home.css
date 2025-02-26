@@ -1,0 +1,199 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Aug 5, 2024, 7:39:46 a.m.
+    Author     : lolos
+*/
+
+.error {
+    color: red;
+}
+
+body {
+   background-color:lavender;
+   font-family: serif;
+   font: Garamond;
+     font-size: 1.2rem;
+}
+
+header{
+    background-color: ghostwhite;
+   border-bottom: solid mediumpurple;
+   margin-top:-10px;
+   margin-left:-10px;
+   max-height:10%;
+}
+.navbar {
+    display: inline;
+    column-count: 4;
+    overflow: hidden;
+    position: relative;
+   padding: 14px 16px;
+   font-size: 1rem;
+   display: block;
+   font-weight: 600;
+   margin-left:15%;
+   color: orange;
+   a:link {
+  color: indigo;
+}  
+}
+
+#nav {
+   
+    text-align:center;
+    font-family: 'Brush Script MT', cursive;
+    font-weight: 200;
+    font-style:italic;
+    font-size: 3rem;
+    color: indigo;
+}
+
+
+#form {
+    
+    break-inside:avoid;
+    min-height: 55%;
+    margin-left:1%;
+    text-align: center;
+    border: solid mediumpurple;
+    column-span: all;
+    color:#191970;
+    align-items: center;
+    font-family: serif;
+   font: Garamond;
+     font-size: 1.2rem;
+    background-color:ghostwhite;
+     margin: auto;
+     width: 50%;
+    height:auto;
+    border: 3px solid mediumpurple;
+    padding: 10px;
+    
+    padding-bottom:10px;
+     border-radius: 7px;
+     max-width: 400px;
+    
+}
+
+h1, h6, h3 {
+    text-align: center;
+    font-family: serif;
+    font: Garamond;
+    font-size: 1.2rem;
+}
+
+#blue {
+   color: indigo; 
+   align-items:center;
+}
+
+#div1 {
+    float: left;
+   
+    margin-left:500px;
+}
+
+#div2 {
+    float:right;
+    margin-left: -50%;
+    margin-right:500px;
+}
+
+#edit {
+     
+    text-align: center;
+    border: solid mediumpurple;
+    
+    color:#191970;
+    align-items: center;
+    font-family: serif;
+   font: Garamond;
+     font-size: 1.2rem;
+    background-color:ghostwhite;
+     margin: auto;
+     width: 70%;
+    height:auto;
+    border: 3px solid mediumpurple;
+    padding: 10px;
+    
+    padding-bottom:10px;
+     border-radius: 7px;
+     max-width: 600px;
+     margin-top:275px;
+     
+}
+
+#div3 {
+   
+    color: indigo;
+}
+
+#btn {
+    margin-left: 47.5%;
+    background-color: ghostwhite;
+    border: solid indigo;
+    width: 75px;
+    height: 35px;
+    border-radius: 25px;
+}
+#friend {
+    
+    background-color: ghostwhite;
+    border: solid indigo;
+    width: 185px;
+    height: 35px;
+    
+}
+
+#blue1 {
+   color: indigo; 
+   float:right;
+}
+
+.imgdiv {
+    width: 50%;
+    margin-left:25%;
+    margin-top:5px;
+    background:ghostwhite;
+    border:solid indigo;
+    border-radius:25px;
+    font: Garamond;
+    align-items:center;
+}
+
+#btn1 {
+    margin-left: 40.5%;
+    background-color: ghostwhite;
+    border: solid indigo;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    margin-top:10px;
+}
+
+#fileToUpload, #fileToDownload {
+    margin-left:38.5%;
+}
+
+#imgs {
+    
+   align-content:center;
+   margin-left:12px;
+   margin-bottom:12px;
+    padding:5%;
+    border:solid ghostwhite 2px;
+}
+
+.chat {
+    width:50%;
+    margin-left: 40%;
+    background:ghostwhite;
+    border:solid indigo;
+}
+
+#chatform {
+  
+}

@@ -1,0 +1,22 @@
+
+/* 
+    Created on : Jun 27, 2024, 9:43:21 a.m.
+    Author     : lolos
+*/
+
+.error {
+    color: red;
+}
+
+body {
+    background: pink;
+    font: Tahoma;
+    
+}
+
+form {
+    text-align: center;
+}
+
+
+
